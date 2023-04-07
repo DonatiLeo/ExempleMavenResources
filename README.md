@@ -13,7 +13,7 @@ L'exemple sert :
  * pour l'utilisation de jackson pour l'export
  * pour les tests unitaires avec fichiers (et ressources) et aussi pour les mocks
 
-Il n'y a pas d'exec de configurer
+Il n'y a pas d'exec de configuré
 pour la javadoc : 
 ```
 mvn javadoc:javadoc@javadoc
